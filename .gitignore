@@ -1,0 +1,6 @@
+__pycache__
+.venv
+screenshots
+build
+dist
+webpic.egg-info
