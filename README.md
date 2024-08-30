@@ -1,6 +1,6 @@
-# Webshot
+# Webpic
 
-Webshot fixes the issue of having to open ports on develepment websites to show the website to your friends.
+Webpic fixes the issue of having to open ports on develepment websites to show the website to your friends.
 
 ## Installation
 
